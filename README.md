@@ -3,23 +3,23 @@
 SAYA ABING</h1>
 
 ## 📲 Kontak Developer 
-[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/sayaabing) 
+[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/puttri098) 
 <br>
-    <a href="https://instagram.com/aabinggg" target="blank"><img src="https://img.shields.io/badge/Aabinggg-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://instagram.com/puttri098" target="blank"><img src="https://img.shields.io/badgeemput-30302f?style=flat&logo=instagram" /></a>
 
-![Profile Dilihat](https://komarev.com/ghpvc/?username=SayaAbing&color=blue&style=flat-square&label=Profile+Dilihat)
+![Profile Dilihat](https://komarev.com/ghpvc/?username=puttri098&color=blue&style=flat-square&label=Profile+Dilihat)
 ### Statistik
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SayaAbing&theme=react&show_icons=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=puttri098&theme=react&show_icons=true&count_private=true">
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayaAbing&theme=tokyonight&layout=compact&langs_count=5">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puttri098&theme=tokyonight&layout=compact&langs_count=5">
 </div>
 
    <h3 align="left">Bahasa dan Code</h3>
 <p align="left"> <a href="https://www.github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SayaAbing&" alt="SayaAbing
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puttri098g&" alt="puttri098
 ### Mari terhubung!
 </p>
 
